@@ -1,0 +1,31 @@
+[[main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+  [main.params]
+    icon = "home"
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/post"
+  weight = 2
+  [main.params]
+    icon = "archives"
+
+[[main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags"
+  weight = 3
+  [main.params]
+    icon = "tag"
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+  weight = 4
+  [main.params]
+    icon = "user"

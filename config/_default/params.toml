@@ -1,0 +1,34 @@
+mainSections = ["post"]
+featuredImageField = "image"
+rssFullContent = true
+
+[footer]
+  since = 2024
+
+[dateFormat]
+  published = "Jan 02, 2006"
+  lastUpdated = "Jan 02, 2006 15:04 MST"
+
+[sidebar]
+  emoji = "🖥️"
+  subtitle = "tech, thoughts & things close to heart"
+
+  [sidebar.avatar]
+    enabled = true
+    local = true
+    src = "img/avatar.jpg"
+
+[article]
+  math = false
+  toc = true
+  readingTime = true
+
+  [article.license]
+    enabled = false
+
+[comments]
+  enabled = false
+
+[colorScheme]
+  toggle = true
+  default = "auto"
