@@ -1,4 +1,4 @@
-baseURL = "https://tsung-jui-wu.github.io/blog"
+baseURL = "https://tsung-jui-wu.github.io/TheNewBlog"
 languageCode = "en-us"
 title = "Tsung-Jui's Blog"
 theme = "hugo-theme-stack"
