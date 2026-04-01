@@ -9,7 +9,7 @@
 [[main]]
   identifier = "posts"
   name = "Posts"
-  url = "/post"
+  url = "/posts"
   weight = 2
   [main.params]
     icon = "archives"
